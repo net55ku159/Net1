@@ -1,4 +1,4 @@
-name: 141-160 
+name: 111-180 
 on:  
   push:
   pull_request:
@@ -60,3 +60,45 @@ jobs:
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/671e61d3e84efc507e8da4ff
       - name: Run 160 a one-line script
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/671e5faa37fc874f067592e8
+
+
+      - name: Run 161 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f066cf49ca5071bac10a0
+      - name: Run 162 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671efec11fb08a4c155c7bb2
+      - name: Run 163 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f051d9cfbdf0bc2a197ba
+      - name: Run 164 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f0b3b6e4d604c0eddbf6f
+      - name: Run 165 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f0c3bfae5850f411e0d31
+      - name: Run 166 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f0d31f49ca50de5ac129f
+      - name: Run 167 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f10b57288794a46d0b28e
+      - name: Run 168 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f11836e4d6053aeddbfdc
+      - name: Run 169 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f148a92866d0e579a0585
+      - name: Run 170 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f15567288794f80d0b233
+      - name: Run 171 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f165be84efc16aa8e0a3b
+      - name: Run 172 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f183d8fce5c5a53acdc02
+      - name: Run 173 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f17bd214aef15c17d3a8d
+      - name: Run 174 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f1a2edecd3758fe35b6d2
+      - name: Run 175 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f19b2fae5851e081de78f
+      - name: Run 176 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f1c150a7e7c2274b1b915
+      - name: Run 177 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f1b9d1fb08a6b2d5c7c95
+      - name: Run 178 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f1ccd1fb08a6bd35c7d5d
+      - name: Run 179 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f1dd5e84efc1de98da2d2
+      - name: Run 180 a one-line script
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/671f1f230a7e7c2587b1b951
